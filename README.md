@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  I'm a freshman in college and a programming enthusiast. My interests in programming include software design and artificial intelligence.
+  I'm a programming enthusiast. My interests in programming include software design and artificial intelligence.
 </p>
 
 <p align='center'>
